@@ -1,0 +1,118 @@
+    h3 {
+        /* height: 40px; */
+        font-weight: 700;
+        color: brown;
+    }
+    
+    h4 {
+        color: darkslategrey;
+        font-weight: 700;
+        font-size: 18px;
+    }
+    
+    p {
+        text-align: justify;
+        font-weight: 500;
+        font-size: medium;
+        color: darkslategrey;
+        font-size: 14px;
+        font-family: Verdana, Geneva, Tahoma, sans-serif;
+    }
+    
+    .titul {
+        font-weight: 800;
+        color: darkslategrey;
+    }
+    
+    .purple-icon {
+        background: #d8d4f1;
+        padding: 10px;
+        border-radius: 20px;
+        color: #422fbd;
+    }
+    
+    .purple-icon2 {
+        background: #e0def0;
+        padding: 18px;
+        border-radius: 28px;
+        color: #422fbd;
+    }
+    
+    .custom-shadow {
+        -webkit-box-shadow: 7px -4px 14px -10px rgba(0, 0, 0, 0.75);
+        -moz-box-shadow: 7px -4px 14px -10px rgba(0, 0, 0, 0.75);
+        box-shadow: 7px -4px 14px -10px rgba(0, 0, 0, 0.75);
+    }
+    
+    .info-description {
+        padding: 5px;
+        color: white;
+        border-radius: 15px;
+        height: 60PX;
+    }
+    
+    .info-description-color-1 {
+        background: #422fbd
+    }
+    
+    .info-description-color-2 {
+        background: #ff893a
+    }
+    
+    .info-description-color-3 {
+        background: #585665
+    }
+    
+    .spaninit {
+        text-align: justify;
+        /* font-weight: 500; */
+        color: darkslategrey;
+    }
+    
+    .custom-circle {
+        border: 1px solid black;
+        color: #f4501d;
+        background-color: #f4501d;
+        border-radius: 6px;
+        width: 12px;
+        height: 12px;
+        display: inline-block;
+        border-left: 80px;
+    }
+    
+    .custom-label {
+        padding: 6px;
+        border-radius: 6px;
+        font-size: 10px;
+    }
+    
+    .custom-label-red {
+        background: #fdece7;
+        color: #f4501d
+    }
+    
+    .custom-label-purple {
+        color: #422fbd;
+        background: #d8d4f1
+    }
+    
+    .card {
+        background-color: cornsilk;
+        border-radius: 15px;
+    }
+    
+    body {
+        background-color: whitesmoke;
+        /* rgb(red, rgb(230, 233, 237), blue); */
+    }
+    /* .pf {
+    font-weight: 400;
+}
+
+p {
+    font-weight: bold;
+} */
+    
+    .down {
+        font-size: small;
+    }
